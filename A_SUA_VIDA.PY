@@ -119,46 +119,6 @@ def brigarFamilia(idade = 0, saude=5, inteligencia=5, beleza=5, felicidade=5, di
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("-------------------------------------------------")
 print('Para começar o jogo da vida, me diga seu nome.')
 nome = input('\nDigite seu nome: ')
